@@ -1,0 +1,190 @@
+('Ionization Potential', 'Electronegativity'),0.2068594281888642
+('Ionization Potential', 'Number of d electrons'),0.1827814792153201
+('Ionization Potential', 'ZIF or MOF Derived'),0.1503299701698488
+('Ionization Potential', 'Carbon Nanofiber/Nanotubes'),0.1967451351099652
+('Ionization Potential', 'Carbon Black Derived'),0.005772945205336754
+('Ionization Potential', 'Biomass or other Organic Derived'),0.0023661537330107382
+('Ionization Potential', 'Main Transition Metal Content (wt. %)'),0.13637743585793452
+('Ionization Potential', 'Nitrogen Cotent (wt. %)'),0.19351824009589802
+('Ionization Potential', 'Metal-N Coordination Number (XAS)'),0.12480863590592682
+('Ionization Potential', 'Pyridinic N Ratio'),0.2959520995523418
+('Ionization Potential', 'Pyrrolic N Ratio'),0.13159383549885376
+('Ionization Potential', 'Raman ID/IG Ratio'),0.268880120399485
+('Ionization Potential', 'BET Surface Area (m2/g)'),0.08960758918884977
+('Ionization Potential', 'Pyrolysis Temperature (°„C)'),0.17961017470775836
+('Ionization Potential', 'Pyrolysis Time (h)'),0.13721531076982424
+('Ionization Potential', 'Rising Rate (°„C min-1)'),0.28669263096639636
+('Ionization Potential', 'Electrolyte Concentration (M)'),0.11575576197860109
+('Ionization Potential', 'Catalyst Loading (mg cm-2)'),0.14761966602761223
+('Ionization Potential', 'Electrolyte pH'),0.09320115372068519
+('Electronegativity', 'Number of d electrons'),0.05161056746318501
+('Electronegativity', 'ZIF or MOF Derived'),0.2264727042255015
+('Electronegativity', 'Carbon Nanofiber/Nanotubes'),0.09621678867314734
+('Electronegativity', 'Carbon Black Derived'),0.0011301088793252095
+('Electronegativity', 'Biomass or other Organic Derived'),0.0014150193838472496
+('Electronegativity', 'Main Transition Metal Content (wt. %)'),0.21580081450154656
+('Electronegativity', 'Nitrogen Cotent (wt. %)'),0.2668812653395824
+('Electronegativity', 'Metal-N Coordination Number (XAS)'),0.21063796179116015
+('Electronegativity', 'Pyridinic N Ratio'),0.198989662427761
+('Electronegativity', 'Pyrrolic N Ratio'),0.13266238923786058
+('Electronegativity', 'Raman ID/IG Ratio'),0.17221309431513013
+('Electronegativity', 'BET Surface Area (m2/g)'),0.22088574794853025
+('Electronegativity', 'Pyrolysis Temperature (°„C)'),0.4156386992910305
+('Electronegativity', 'Pyrolysis Time (h)'),0.3252263387534405
+('Electronegativity', 'Rising Rate (°„C min-1)'),0.14508985975843902
+('Electronegativity', 'Electrolyte Concentration (M)'),0.06801017391779603
+('Electronegativity', 'Catalyst Loading (mg cm-2)'),0.03942309951187462
+('Electronegativity', 'Electrolyte pH'),0.15743618320648245
+('Number of d electrons', 'ZIF or MOF Derived'),0.04147627018608855
+('Number of d electrons', 'Carbon Nanofiber/Nanotubes'),0.04977513802677345
+('Number of d electrons', 'Carbon Black Derived'),0.00206426544496091
+('Number of d electrons', 'Biomass or other Organic Derived'),0.009381613864423655
+('Number of d electrons', 'Main Transition Metal Content (wt. %)'),0.05006588125949163
+('Number of d electrons', 'Nitrogen Cotent (wt. %)'),0.1539982271840959
+('Number of d electrons', 'Metal-N Coordination Number (XAS)'),0.45316422314077387
+('Number of d electrons', 'Pyridinic N Ratio'),0.2729677121691899
+('Number of d electrons', 'Pyrrolic N Ratio'),0.08904530734033095
+('Number of d electrons', 'Raman ID/IG Ratio'),0.0866508119455222
+('Number of d electrons', 'BET Surface Area (m2/g)'),0.060932873199845486
+('Number of d electrons', 'Pyrolysis Temperature (°„C)'),0.09654373890910177
+('Number of d electrons', 'Pyrolysis Time (h)'),0.12368792964875498
+('Number of d electrons', 'Rising Rate (°„C min-1)'),0.1162715932561068
+('Number of d electrons', 'Electrolyte Concentration (M)'),0.04158662676254783
+('Number of d electrons', 'Catalyst Loading (mg cm-2)'),0.1368274196261229
+('Number of d electrons', 'Electrolyte pH'),0.10766429560114908
+('ZIF or MOF Derived', 'Carbon Nanofiber/Nanotubes'),0.1220494938602921
+('ZIF or MOF Derived', 'Carbon Black Derived'),0.0015335715842814577
+('ZIF or MOF Derived', 'Biomass or other Organic Derived'),0.0050180787921395124
+('ZIF or MOF Derived', 'Main Transition Metal Content (wt. %)'),0.03611478553289875
+('ZIF or MOF Derived', 'Nitrogen Cotent (wt. %)'),0.08497679465931911
+('ZIF or MOF Derived', 'Metal-N Coordination Number (XAS)'),0.037851999183370365
+('ZIF or MOF Derived', 'Pyridinic N Ratio'),0.4384692417489139
+('ZIF or MOF Derived', 'Pyrrolic N Ratio'),0.07082251061659442
+('ZIF or MOF Derived', 'Raman ID/IG Ratio'),0.09728188314716715
+('ZIF or MOF Derived', 'BET Surface Area (m2/g)'),0.03336745701155689
+('ZIF or MOF Derived', 'Pyrolysis Temperature (°„C)'),0.13608175084021723
+('ZIF or MOF Derived', 'Pyrolysis Time (h)'),0.05443569164253989
+('ZIF or MOF Derived', 'Rising Rate (°„C min-1)'),0.190349246851387
+('ZIF or MOF Derived', 'Electrolyte Concentration (M)'),0.052826869561422136
+('ZIF or MOF Derived', 'Catalyst Loading (mg cm-2)'),0.3934609267354116
+('ZIF or MOF Derived', 'Electrolyte pH'),0.022623257279530008
+('Carbon Nanofiber/Nanotubes', 'Carbon Black Derived'),0.0018311476645092777
+('Carbon Nanofiber/Nanotubes', 'Biomass or other Organic Derived'),0.001967057083081143
+('Carbon Nanofiber/Nanotubes', 'Main Transition Metal Content (wt. %)'),0.033063153034885454
+('Carbon Nanofiber/Nanotubes', 'Nitrogen Cotent (wt. %)'),0.07690197631873824
+('Carbon Nanofiber/Nanotubes', 'Metal-N Coordination Number (XAS)'),0.05129828544243159
+('Carbon Nanofiber/Nanotubes', 'Pyridinic N Ratio'),0.09560340681835247
+('Carbon Nanofiber/Nanotubes', 'Pyrrolic N Ratio'),0.08055330288775302
+('Carbon Nanofiber/Nanotubes', 'Raman ID/IG Ratio'),0.24389475532341412
+('Carbon Nanofiber/Nanotubes', 'BET Surface Area (m2/g)'),0.025954651129508094
+('Carbon Nanofiber/Nanotubes', 'Pyrolysis Temperature (°„C)'),0.04165831809186318
+('Carbon Nanofiber/Nanotubes', 'Pyrolysis Time (h)'),0.021389302740742577
+('Carbon Nanofiber/Nanotubes', 'Rising Rate (°„C min-1)'),0.06450261156285851
+('Carbon Nanofiber/Nanotubes', 'Electrolyte Concentration (M)'),0.1389939530665005
+('Carbon Nanofiber/Nanotubes', 'Catalyst Loading (mg cm-2)'),0.04727198200656865
+('Carbon Nanofiber/Nanotubes', 'Electrolyte pH'),0.04341077761768782
+('Carbon Black Derived', 'Biomass or other Organic Derived'),0.009765407726885876
+('Carbon Black Derived', 'Main Transition Metal Content (wt. %)'),0.004538954745583492
+('Carbon Black Derived', 'Nitrogen Cotent (wt. %)'),0.044085907534252414
+('Carbon Black Derived', 'Metal-N Coordination Number (XAS)'),0.0011182949137290398
+('Carbon Black Derived', 'Pyridinic N Ratio'),0.0023101339959736033
+('Carbon Black Derived', 'Pyrrolic N Ratio'),0.01725137767680707
+('Carbon Black Derived', 'Raman ID/IG Ratio'),0.0023913218338872167
+('Carbon Black Derived', 'BET Surface Area (m2/g)'),0.007731737241116487
+('Carbon Black Derived', 'Pyrolysis Temperature (°„C)'),0.0009523406917615335
+('Carbon Black Derived', 'Pyrolysis Time (h)'),0.0013969443985468349
+('Carbon Black Derived', 'Rising Rate (°„C min-1)'),0.0733618244167273
+('Carbon Black Derived', 'Electrolyte Concentration (M)'),0.020160720488121023
+('Carbon Black Derived', 'Catalyst Loading (mg cm-2)'),0.0013260456861635672
+('Carbon Black Derived', 'Electrolyte pH'),0.0016204916737678503
+('Biomass or other Organic Derived', 'Main Transition Metal Content (wt. %)'),0.15622055013303346
+('Biomass or other Organic Derived', 'Nitrogen Cotent (wt. %)'),0.02402014849092537
+('Biomass or other Organic Derived', 'Metal-N Coordination Number (XAS)'),0.007668571697763033
+('Biomass or other Organic Derived', 'Pyridinic N Ratio'),0.005163225907914247
+('Biomass or other Organic Derived', 'Pyrrolic N Ratio'),0.0018410092345896177
+('Biomass or other Organic Derived', 'Raman ID/IG Ratio'),0.01405978424839767
+('Biomass or other Organic Derived', 'BET Surface Area (m2/g)'),0.010269097183008237
+('Biomass or other Organic Derived', 'Pyrolysis Temperature (°„C)'),0.01157940460049648
+('Biomass or other Organic Derived', 'Pyrolysis Time (h)'),0.0010836674045866296
+('Biomass or other Organic Derived', 'Rising Rate (°„C min-1)'),0.013506441836260291
+('Biomass or other Organic Derived', 'Electrolyte Concentration (M)'),0.0022153620603472123
+('Biomass or other Organic Derived', 'Catalyst Loading (mg cm-2)'),0.014263699809679533
+('Biomass or other Organic Derived', 'Electrolyte pH'),0.0013310251497542632
+('Main Transition Metal Content (wt. %)', 'Nitrogen Cotent (wt. %)'),0.16625928295262365
+('Main Transition Metal Content (wt. %)', 'Metal-N Coordination Number (XAS)'),0.09954466903769583
+('Main Transition Metal Content (wt. %)', 'Pyridinic N Ratio'),0.29677759591708675
+('Main Transition Metal Content (wt. %)', 'Pyrrolic N Ratio'),0.15834699878527173
+('Main Transition Metal Content (wt. %)', 'Raman ID/IG Ratio'),0.1249457198970897
+('Main Transition Metal Content (wt. %)', 'BET Surface Area (m2/g)'),0.26405957592838236
+('Main Transition Metal Content (wt. %)', 'Pyrolysis Temperature (°„C)'),0.13469271225755897
+('Main Transition Metal Content (wt. %)', 'Pyrolysis Time (h)'),0.1082353232130593
+('Main Transition Metal Content (wt. %)', 'Rising Rate (°„C min-1)'),0.15995252311023178
+('Main Transition Metal Content (wt. %)', 'Electrolyte Concentration (M)'),0.0394778951394276
+('Main Transition Metal Content (wt. %)', 'Catalyst Loading (mg cm-2)'),0.1884273938917126
+('Main Transition Metal Content (wt. %)', 'Electrolyte pH'),0.3114787614024221
+('Nitrogen Cotent (wt. %)', 'Metal-N Coordination Number (XAS)'),0.27060284851954336
+('Nitrogen Cotent (wt. %)', 'Pyridinic N Ratio'),0.0500067298524793
+('Nitrogen Cotent (wt. %)', 'Pyrrolic N Ratio'),0.14577879958728818
+('Nitrogen Cotent (wt. %)', 'Raman ID/IG Ratio'),0.21402713203662072
+('Nitrogen Cotent (wt. %)', 'BET Surface Area (m2/g)'),0.17049516215131727
+('Nitrogen Cotent (wt. %)', 'Pyrolysis Temperature (°„C)'),0.1188427440588946
+('Nitrogen Cotent (wt. %)', 'Pyrolysis Time (h)'),0.14875007200930407
+('Nitrogen Cotent (wt. %)', 'Rising Rate (°„C min-1)'),0.1623403793763026
+('Nitrogen Cotent (wt. %)', 'Electrolyte Concentration (M)'),0.03642260240888474
+('Nitrogen Cotent (wt. %)', 'Catalyst Loading (mg cm-2)'),0.04072356470062839
+('Nitrogen Cotent (wt. %)', 'Electrolyte pH'),0.02841756050870899
+('Metal-N Coordination Number (XAS)', 'Pyridinic N Ratio'),0.07703627373557548
+('Metal-N Coordination Number (XAS)', 'Pyrrolic N Ratio'),0.08044601952308274
+('Metal-N Coordination Number (XAS)', 'Raman ID/IG Ratio'),0.1170395015602715
+('Metal-N Coordination Number (XAS)', 'BET Surface Area (m2/g)'),0.1821311241434169
+('Metal-N Coordination Number (XAS)', 'Pyrolysis Temperature (°„C)'),0.1145910391066144
+('Metal-N Coordination Number (XAS)', 'Pyrolysis Time (h)'),0.38726347947311385
+('Metal-N Coordination Number (XAS)', 'Rising Rate (°„C min-1)'),0.17423154117037956
+('Metal-N Coordination Number (XAS)', 'Electrolyte Concentration (M)'),0.04767945472555665
+('Metal-N Coordination Number (XAS)', 'Catalyst Loading (mg cm-2)'),0.047867596688979865
+('Metal-N Coordination Number (XAS)', 'Electrolyte pH'),0.11253594266888049
+('Pyridinic N Ratio', 'Pyrrolic N Ratio'),0.403074114931822
+('Pyridinic N Ratio', 'Raman ID/IG Ratio'),0.16386217845928341
+('Pyridinic N Ratio', 'BET Surface Area (m2/g)'),0.13757199767128284
+('Pyridinic N Ratio', 'Pyrolysis Temperature (°„C)'),0.2625327782149606
+('Pyridinic N Ratio', 'Pyrolysis Time (h)'),0.101554775766032
+('Pyridinic N Ratio', 'Rising Rate (°„C min-1)'),0.10816240653264171
+('Pyridinic N Ratio', 'Electrolyte Concentration (M)'),0.09550939260572229
+('Pyridinic N Ratio', 'Catalyst Loading (mg cm-2)'),0.09837518205567364
+('Pyridinic N Ratio', 'Electrolyte pH'),0.1407516285986348
+('Pyrrolic N Ratio', 'Raman ID/IG Ratio'),0.242794172236795
+('Pyrrolic N Ratio', 'BET Surface Area (m2/g)'),0.10069129872932743
+('Pyrrolic N Ratio', 'Pyrolysis Temperature (°„C)'),0.23158253481669624
+('Pyrrolic N Ratio', 'Pyrolysis Time (h)'),0.11596617889590179
+('Pyrrolic N Ratio', 'Rising Rate (°„C min-1)'),0.17417799171836681
+('Pyrrolic N Ratio', 'Electrolyte Concentration (M)'),0.044917428703600035
+('Pyrrolic N Ratio', 'Catalyst Loading (mg cm-2)'),0.15017767553082603
+('Pyrrolic N Ratio', 'Electrolyte pH'),0.038537060056399265
+('Raman ID/IG Ratio', 'BET Surface Area (m2/g)'),0.16763960687388887
+('Raman ID/IG Ratio', 'Pyrolysis Temperature (°„C)'),0.2267153862579813
+('Raman ID/IG Ratio', 'Pyrolysis Time (h)'),0.14996066770679103
+('Raman ID/IG Ratio', 'Rising Rate (°„C min-1)'),0.1394227586446392
+('Raman ID/IG Ratio', 'Electrolyte Concentration (M)'),0.39640010143677307
+('Raman ID/IG Ratio', 'Catalyst Loading (mg cm-2)'),0.07521176536156991
+('Raman ID/IG Ratio', 'Electrolyte pH'),0.08800675870394836
+('BET Surface Area (m2/g)', 'Pyrolysis Temperature (°„C)'),0.1545047116409306
+('BET Surface Area (m2/g)', 'Pyrolysis Time (h)'),0.050349860469313674
+('BET Surface Area (m2/g)', 'Rising Rate (°„C min-1)'),0.13835604583952937
+('BET Surface Area (m2/g)', 'Electrolyte Concentration (M)'),0.2594958099786615
+('BET Surface Area (m2/g)', 'Catalyst Loading (mg cm-2)'),0.052157192018091915
+('BET Surface Area (m2/g)', 'Electrolyte pH'),0.2629564598580002
+('Pyrolysis Temperature (°„C)', 'Pyrolysis Time (h)'),0.07906223483848704
+('Pyrolysis Temperature (°„C)', 'Rising Rate (°„C min-1)'),0.23240998120652465
+('Pyrolysis Temperature (°„C)', 'Electrolyte Concentration (M)'),0.09982886380514508
+('Pyrolysis Temperature (°„C)', 'Catalyst Loading (mg cm-2)'),0.09800669925626909
+('Pyrolysis Temperature (°„C)', 'Electrolyte pH'),0.05576737145929038
+('Pyrolysis Time (h)', 'Rising Rate (°„C min-1)'),0.03349086637726328
+('Pyrolysis Time (h)', 'Electrolyte Concentration (M)'),0.08548021316795128
+('Pyrolysis Time (h)', 'Catalyst Loading (mg cm-2)'),0.08970468839466286
+('Pyrolysis Time (h)', 'Electrolyte pH'),0.06709072302280143
+('Rising Rate (°„C min-1)', 'Electrolyte Concentration (M)'),0.040542746331478016
+('Rising Rate (°„C min-1)', 'Catalyst Loading (mg cm-2)'),0.11476933941608777
+('Rising Rate (°„C min-1)', 'Electrolyte pH'),0.04548337838410213
+('Electrolyte Concentration (M)', 'Catalyst Loading (mg cm-2)'),0.19927088515440256
+('Electrolyte Concentration (M)', 'Electrolyte pH'),0.0589076218724271
+('Catalyst Loading (mg cm-2)', 'Electrolyte pH'),0.049781532370741226
